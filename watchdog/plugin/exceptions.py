@@ -1,0 +1,2 @@
+class InvalidMethod(Exception):
+    pass
